@@ -15,7 +15,7 @@
 | [Перезапуск e-commerce «Азия Онлайн»](https://github.com/astro090-pm/product-cases/tree/main/01-asia-online) | Азия Ритейл, B2C, ~600 тыс. польз. | выручка +103%, заказы +67%, отток −24% |
 | [MTS ID — бесшовная авторизация](https://github.com/astro090-pm/product-cases/tree/main/02-mts-id) | МТС, B2B2C, ~10 млн польз. | 9 продуктов + МТС Банк, бесшовные входы +23% |
 | [«По соседству» — офлайн-магазин в онлайн](https://github.com/astro090-pm/product-cases/tree/main/03-po-sosedstvu) | сооснователь, B2C + B2B | B2B: заказы +89%, средний чек +71% |
-| [Сервис кредитного анализа](https://github.com/astro090-pm/product-cases/tree/main/05-gazprombank) | Газпромбанк, B2E | запуск с нуля в промышленную эксплуатацию |
+| [Сервис кредитного анализа с ИИ-агентом](https://github.com/astro090-pm/product-cases/tree/main/05-gazprombank) | Газпромбанк, B2E | запуск с нуля в промышленную эксплуатацию |
 
 [Все кейсы →](https://github.com/astro090-pm/product-cases#кейсы)
 

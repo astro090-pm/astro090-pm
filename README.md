@@ -9,7 +9,7 @@
 
 | Проект | Что это | Ключевое | Стек |
 |---|---|---|---|
-| [**Планировщик выходных**](https://github.com/astro090-pm/weekend-planner) | Telegram-бот: план выходных по часам с учётом погоды, афиши, бюджета и детей | агенты по A2A, свой MCP-сервер, браузерный агент, 32 эвал-кейса, воронка и retention | Python, GigaChat, MCP, A2A, Playwright |
+| [**Планировщик выходных**](https://github.com/astro090-pm/weekend-planner) | Telegram-бот: план выходных по часам с учётом погоды, афиши, бюджета и детей | агенты по A2A, свой MCP-сервер, браузерный агент, 32 эвал-кейса, воронка и retention | Python, OpenAI-совместимые LLM / GigaChat, MCP, A2A, Playwright |
 | _следующий кейс_ | | | |
 
 Подробности по каждому кейсу — проблема, решение, архитектура, эвалы и результаты — в README репозитория.
@@ -24,7 +24,7 @@
 
 ## Стек
 
-`Python` `TypeScript` `GigaChat` `open-source LLM` `MCP` `A2A` `Playwright` `Starlette` `SQLite` `Docker` `GitHub Actions`
+`Python` `TypeScript` `OpenAI API` `OpenRouter` `GigaChat` `open-source LLM` `MCP` `A2A` `Playwright` `Starlette` `SQLite` `Docker` `GitHub Actions`
 
 ## Контакты
 
